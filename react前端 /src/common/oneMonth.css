@@ -1,0 +1,18 @@
+.oneMonthView{
+	vertical-align: middle;
+    text-align: center;  
+	font-size:14px;
+	width:340px;
+
+}
+.oneMonthView tr{
+	height:48px;
+}
+.oneMonthView td{
+	padding:0px;
+	height: 48px;
+}
+.oneMonthView a { display:block; height:100%;width:100%;}
+.oneMonthView a:link { color:#000; text-decoration:none;}
+.oneMonthView a:visited { color:#000; text-decoration:none;}
+.oneMonthView a:hover { text-decoration:none; background-color:#eee;}
